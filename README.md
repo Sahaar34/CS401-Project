@@ -41,5 +41,5 @@ A project that predicts the 2026 FIFA World Cup winner by analyzing recent match
   - The final predicted 2026 World Cup winner
 
 ## Clone the Repository
-git clone https://github.com/your-username/FIFA-2026-Predictor.git
-cd FIFA-2026-Predictor
+- git clone https://github.com/your-username/FIFA-2026-Predictor.git
+- cd FIFA-2026-Predictor
